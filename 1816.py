@@ -1,5 +1,5 @@
-'''
-
+''''
+Day - 2
 Problem - 1816
 Truncate Sentence
 
