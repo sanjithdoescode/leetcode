@@ -12,3 +12,7 @@ everyday leetcode diary
 ## Day - 4
 ### Problems - 2, 4, 1930 (POTD)
 ### Add Two Numbers, Median Of Two Sorted Arrays and Unique Length - 3 Palindromic Subsequences (POTD)
+
+## Day - 5 
+### Problems - 22, 848, 2381 (POTD)
+### Problems - Generate Parantheses, Shifting Letters, Shifting Letters II (POTD)
