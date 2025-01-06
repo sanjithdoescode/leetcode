@@ -15,4 +15,8 @@ everyday leetcode diary
 
 ## Day - 5 
 ### Problems - 22, 848, 2381 (POTD)
-### Problems - Generate Parantheses, Shifting Letters, Shifting Letters II (POTD)
+### Generate Parantheses, Shifting Letters, Shifting Letters II (POTD)
+
+## Day - 6
+### Problems - 39, 40, 1255, 1769 (POTD)
+### Combination Sum, Combination Sum II, Maximum Score Words Formed by Letters, Minimum Number Of Operations to Move All Balls to Each Box (POTD)
