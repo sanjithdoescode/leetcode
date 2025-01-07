@@ -20,3 +20,8 @@ everyday leetcode diary
 ## Day - 6
 ### Problems - 39, 40, 1255, 1769 (POTD)
 ### Combination Sum, Combination Sum II, Maximum Score Words Formed by Letters, Minimum Number Of Operations to Move All Balls to Each Box (POTD)
+
+## Day - 7
+### Problems - 46 ,47, 1408
+### Permutations, Permutations - II, String Matching In An Array
+
