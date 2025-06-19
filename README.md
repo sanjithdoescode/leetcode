@@ -28,3 +28,6 @@ everyday leetcode diary
 ## Day - 8
 ### Problems - 15, 16, 3042 (POTD)
 ### 3Sum, 3Sum Closest, Count Prefix and Suffix Pairs I
+            
+
+# /BRUH/\?
